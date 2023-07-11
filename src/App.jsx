@@ -35,7 +35,7 @@ const App = () => {
         <div className='navbar navbar-dark bg-dark shadow-sm'>
           <div className='container'>
             <NavLink to='#' className='navbar-brand d-flex align-items-center'>
-              <strong>My Movie App</strong>
+              <strong>StarTvSeries</strong>
             </NavLink>
             <SearchBar handleSearchChange={handleSearch} />
           </div>
